@@ -46,10 +46,10 @@ Make sure Python 3 is installed.
 
 ### Step 2: Save File
 Save the code as:
-
 ```bash
 knapsack.py
-## step 3: run program
+
+### step 3: run program
 python knapsack.py
 
 Example Input
